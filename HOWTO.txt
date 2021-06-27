@@ -1,0 +1,11 @@
+To compile the C++ portion of the project, type the following command into your terminal:
+
+    g++ shm.cpp -o shm.out
+
+To execute the program and generate the csv file, type the following:
+    
+    ./shm.out
+
+To execute the Python portion of the project and generate the graphs, type the following command into your terminal:
+
+    python shm.py
